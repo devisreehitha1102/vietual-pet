@@ -1,1 +1,1 @@
-# virtual-pet
+pet dog
